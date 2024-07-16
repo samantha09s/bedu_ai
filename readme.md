@@ -176,7 +176,7 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
   <table>
     <tr>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-03.jpg" alt="Anuncio Revisa Digital"></td>
-      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-DemoAds.png.jpg" alt="Google Ads"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/DemoAds.png.jpg" alt="Google Ads"></td>
     </tr>
   </table>
 </div>
