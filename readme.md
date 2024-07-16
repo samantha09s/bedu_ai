@@ -30,4 +30,11 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
       <td><img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital_2"></td>
     </tr>
   </table>
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://www.srtoast.com/bedu/images/distribucion_usuarios_image.jpg" alt="Distribucion de usuarios"></td>
+      <td><img src="https://www.srtoast.com/bedu/images/estadisticas_image.jpg" alt="estadisticas"></td>
+    </tr>
+  </table>
 </div>
