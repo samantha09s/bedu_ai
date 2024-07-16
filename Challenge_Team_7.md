@@ -171,7 +171,6 @@ aprendizdigital@conectadosalfuturo.org
 
 ## Contenido y Prompt Engenieering (Evidencias, Investigacion del equipo 7)
 
-
-![Archivos PDFs](https://www.srtoast.com/bedu/evidencias)
+[Archivos PDFs](https://www.srtoast.com/bedu/evidencias)
 
 ---
