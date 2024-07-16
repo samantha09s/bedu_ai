@@ -140,7 +140,7 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
 **¡Inscríbete hoy mismo!**
 - Número de teléfono: +52 55 1234 5678
 - Visita nuestra página: www.conectadosalfuturo.com.mx
-- Contáctanos por email: aprendizdigital@conectadosalfuturo.org
+- Contáctanos por email: aprendizdigital@conectadosalfuturo.com.mx
 
 #ConectadosAlFuturo #adultostecnológicos #tecnologíaparatodos
 
@@ -159,6 +159,24 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
     <tr>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Sin%20costo.jpg" alt="Pubblicacion FB_2"></td>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso.png" alt="Mock FB_2"></td>
+    </tr>
+  </table>
+</div>
+
+## Anuncios de revista Digital
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-01.jpg" alt="Anuncio Revisa Digital"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-02.jpg" alt="Anuncio Revisa Digital"></td>
+    </tr>
+  </table>
+</div>
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-03.jpg" alt="Anuncio Revisa Digital"></td>
+      <td></td>
     </tr>
   </table>
 </div>
