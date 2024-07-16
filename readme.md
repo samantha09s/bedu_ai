@@ -9,8 +9,7 @@
 ... ¡En proceso!
 
 ---
-
-<FONT COLOR="yellow">Texto AMARILLO </FONT>
+<font color="#0000ff"> Texto distinto. </font>
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
 En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se propone cerrar la brecha tecnológica en la población de adultos mayores. *¿Cómo?* Brindándoles las herramientas y habilidades esenciales para su inclusión social y acceso a nuevas oportunidades.
