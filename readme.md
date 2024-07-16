@@ -33,8 +33,8 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
 </div><div style="text-align: center;">
   <table>
     <tr>
-      <td><img src="https://www.srtoast.com/bedu/images/distribucion_usuarios_image.jpg" alt="Distribucion de usuarios"></td>
-      <td><img src="https://www.srtoast.com/bedu/images/estadisticas_image.jpg" alt="estadisticas"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/estadisticas_image.jpg" alt="Distribucion de usuarios"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/distribucion_usuarios_image.jpg" alt="estadisticas"></td>
     </tr>
   </table>
 </div>
