@@ -41,9 +41,9 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
 
 ## Conéctate al Fuuturo y desbloquea nuevas oportunidades
 
-### ¿Quieres ser parte de la revolución digital?
+### *¿Quieres ser parte de la revolución digital?*
 
-###Explora la Era Digital sin Miedos
+### Explora la Era Digital sin Miedos
 
 Nuestros cursos son ideales para ti, sin importar tu nivel de experiencia, te permitirán adquirir habilidades tecnológicas esenciales de forma práctica y accesible.
 
