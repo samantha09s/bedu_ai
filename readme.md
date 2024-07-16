@@ -39,7 +39,7 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
   </table>
 </div>
 
-## Conéctate al Fuuturo y desbloquea nuevas oportunidades
+## Conéctate al Futuro y desbloquea nuevas oportunidades
 
 ### *¿Quieres ser parte de la revolución digital?*
 
@@ -57,4 +57,42 @@ Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oport
 - **Microsoft Office**
 - **Internet**
 - **Redes sociales**
+
+## Campaña de Marketing
+
+### Correo Electrónico
+
+Asunto: ¡Actualiza tus habilidades tecnológicas con nuestro curso especial para adultos mayores de 40 años!
+
+*¡Hola Ignacio Financiero!*
+
+¿Estás listo para aprender nuevas habilidades tecnológicas y mejorar tus oportunidades laborales? 
+¡Este es el momento perfecto para comenzar!
+
+Conectados al Futuro trae para ti un curso de tecnología diseñado especialmente para adultos mayores de 40 años. 
+
+*¿Qué aprenderás?*
+- ** Microsoft Word: Domina la creación y edición de documentos.
+- ** Microsoft Excel: Gestiona tus finanzas personales y laborales con hojas de cálculo.
+- ** Navegación en Internet: Explora el mundo digital de manera segura y eficiente.
+- ** Redes Sociales: Conéctate con amigos, familiares y oportunidades laborales en línea.
+
+*¿Por qué tomar este curso?*
+- Actualiza tus habilidades: Adquiere conocimientos prácticos que te harán más competitivo en el mercado laboral.
+- Contenido accesible y práctico: Nuestras lecciones están diseñadas para ser fáciles de seguir y aplicar en tu día a día.
+- Mejora tus oportunidades: Con nuevas habilidades, estarás mejor preparado para aprovechar las oportunidades que ofrece el mundo digital.
+
+*¡Inscríbete hoy mismo!*
+
+Responde a este correo con tu nombre, número de contacto y la razón que te motiva a integrarte a nuestros cursos. Estamos emocionados de ayudarte a dar el siguiente paso en tu desarrollo personal y profesional.
+
+¡No dejes pasar esta oportunidad! Mejora tus habilidades tecnológicas y abre la puerta a nuevas posibilidades. ¡Esperamos tu respuesta!
+
+Saludos cordiales,
+
+Lic. Eduardo Gonzáles López
+Academia Conectados al Futuro
+egonzales@conectadosalfuturo.com.mx
+
+PD: ¡Recuerda que nunca es tarde para aprender algo nuevo!
 
