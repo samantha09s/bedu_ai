@@ -154,7 +154,7 @@ Responde a este correo con tu nombre, número de contacto y la razón que te mot
 +52 55 1234 5678
 
 ### Email
-aprendizdigital@conectadosalfuturo.org
+aprendizdigital@cconectadosalfuturo.com.mx
 
 **Nuestro compromiso es claro: cerrar la brecha digital para adultos mayores y fortalecer sus habilidades tecnológicas.**
 
