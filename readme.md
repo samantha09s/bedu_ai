@@ -8,6 +8,8 @@
 
 ... ¡En proceso!
 
+---
+
 ## Innovación para la Inclusión Digital de Adultos Mayores
 
 En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se propone cerrar la brecha tecnológica en la población de adultos mayores. *¿Cómo?* Brindándoles las herramientas y habilidades esenciales para su inclusión social y acceso a nuevas oportunidades.
@@ -38,6 +40,10 @@ En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se 
     </tr>
   </table>
 </div>
+
+
+---
+
 
 ## Conéctate al Futuro y desbloquea nuevas oportunidades
 
@@ -107,6 +113,10 @@ egonzales@conectadosalfuturo.com.mx
   </table>
 </div>
 
+
+---
+
+
 ## Redes Sociales
 
 ### *Publicaciones en Facebook*
@@ -163,6 +173,10 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
   </table>
 </div>
 
+
+---
+
+
 ## Anuncios de revista Digital / Google Ads
 </div><div style="text-align: center;">
   <table>
@@ -181,7 +195,9 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
   </table>
 </div>
 
+
 ---
+
 
 ## Nuestro Equipo
 
