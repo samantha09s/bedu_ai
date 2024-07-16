@@ -4,7 +4,7 @@
 
 ### Formación para Adultos en Tecnología
 
-![Cover](www.srtoast.com/bedu/images/cover_image.jpg)
+![Cover](https://www.srtoast.com/bedu/images/cover_image.jpg)
 
 [Saber más](#)
 
