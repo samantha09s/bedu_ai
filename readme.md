@@ -96,7 +96,10 @@ egonzales@conectadosalfuturo.com.mx
 
 *PD: ¡Recuerda que nunca es tarde para aprender algo nuevo!*
 
-###Formato digital diseño
+
+
+### Formato digital diseño
+
 ![email](https://github.com/alextostado/bedu_ai/blob/main/images/Ignacio%20Financiero.jpg)
 
 
