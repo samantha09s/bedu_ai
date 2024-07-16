@@ -18,7 +18,7 @@ En un mundo cada vez más digital, la brecha digital en adultos mayores se prese
 
 ### Desconectados en la Era Tecnológica
 
-![Desconectados](www.srtoast.com/bedu/images/desconectados_image.jpg)
+![Desconectados](https://www.srtoast.com/bedu/images/desconectados_image.jpg)
 
 ---
 
@@ -26,11 +26,11 @@ En un mundo cada vez más digital, la brecha digital en adultos mayores se prese
 
 ### Tareas Cotidianas Inaccesibles para Adultos Mayores
 
-![Distribución de Usuarios](www.srtoast.com/bedu/images/distribucion_usuarios_image.jpg)
+![Distribución de Usuarios](https://www.srtoast.com/bedu/images/distribucion_usuarios_image.jpg)
 
 ### Estadísticas alarmantes
 
-![Estadísticas](www.srtoast.com/bedu/images/estadisticas_image.jpg)
+![Estadísticas](https://www.srtoast.com/bedu/images/estadisticas_image.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ En un mundo cada vez más digital, la brecha digital en adultos mayores se prese
 
 ### ¿Preocupado por perder oportunidades laborales futuras?
 
-![Preocupado](www.srtoast.com/bedu/images/preocupado_image.jpg)
+![Preocupado](https://www.srtoast.com/bedu/images/preocupado_image.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Explora la Era Digital sin Miedos
 
 Nuestros cursos son ideales para ti, sin importar tu nivel de experiencia, te permitirán adquirir habilidades tecnológicas esenciales de forma práctica y accesible.
 
-![Cursos](www.srtoast.com/bedu/images/cursos_image.jpg)
+![Cursos](https://www.srtoast.com/bedu/images/cursos_image.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oport
 - **Internet**
 - **Redes sociales**
 
-![Capacitando](www.srtoast.com/bedu/images/capacitando_image.jpg)
+![Capacitando](https://www.srtoast.com/bedu/images/capacitando_image.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ Ofrecer a personas mayores un camino hacia la inclusión digital y mejores oport
 - **Publicación en red social**
 - **Anuncios Publicitarios**
 
-![Marketing](www.srtoast.com/bedu/images/marketing_image.jpg)
+![Marketing](https://www.srtoast.com/bedu/images/marketing_image.jpg)
 
 ---
 
@@ -138,14 +138,14 @@ Responde a este correo con tu nombre, número de contacto y la razón que te mot
 
 **¡Conéctate al futuro con nuestra formación en tecnología!** 💻
 
-![Publicación en Facebook](www.srtoast.com/bedu/images/facebook_post_image.jpg)
+![Publicación en Facebook](https://www.srtoast.com/bedu/images/facebook_post_image.jpg)
 
 ---
 
 ## Anuncios Publicitarios
 
 
-![Publicaciónes Físicas](www.srtoast.com/bedu/images/advertisememt_image.jpg)
+![Publicaciónes Físicas](https://www.srtoast.com/bedu/images/advertisememt_image.jpg)
 
 ---
 
@@ -165,13 +165,13 @@ aprendizdigital@conectadosalfuturo.org
 **Tu Próximo Paso**
 [http://www.conectadosalfuturo.com.mx/](http://www.conectadosalfuturo.com.mx/)
 
-![Conectados al Futuro](www.srtoast.com/bedu/images/conectados_image.jpg)
+![Conectados al Futuro](https://www.srtoast.com/bedu/images/conectados_image.jpg)
 
 ---
 
 ## Contenido y Prompt Engenieering (Evidencias, Investigacion del equipo 7)
 
 
-![Archivos PDFs](www.srtoast.com/bedu/evidencias)
+![Archivos PDFs](https://www.srtoast.com/bedu/evidencias)
 
 ---
