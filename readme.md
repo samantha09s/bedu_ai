@@ -99,8 +99,66 @@ egonzales@conectadosalfuturo.com.mx
 
 
 ### Formato digital diseño
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Ignacio%20Financiero.jpg" alt="Email"></td>
+    </tr>
+  </table>
+</div>
 
-![email](https://github.com/alextostado/bedu_ai/blob/main/images/Ignacio%20Financiero.jpg)
+## Redes Sociales
+
+### *Publicaciones en Facebook*
+
+### **Copy Interno**
+
+¿Tienes 40 años o más? ¡Este es el momento para actualizar tus habilidades tecnológicas! Aprende Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos y gratuitos.
+
+¡Conéctate al futuro con nuestra formación en tecnología!
 
 
 
+### **Copy Externo con Hastags**
+
+¿Tienes 40 años o más? ¡Este es el momento para actualizar tus habilidades tecnológicas! Aprende
+Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos y gratuitos.
+
+***¿Qué aprenderás?***
+**Word:** Domina la creación y edición de documentos.
+**Excel:** Mejora tus habilidades en la gestión de datos y hojas de cálculo.
+**Internet:** Navega y utiliza herramientas en línea de manera segura y eficiente.
+**Redes Sociales:** Conéctate y comparte con confianza en plataformas sociales.
+
+***¿Por qué unirte?***
+**Actualización Profesional:** Mejora tus oportunidades laborales en la era digital.
+**Sin Experiencia Previa:** Cursos diseñados para principiantes.
+**Contenido Práctico:** Aprende haciendo, con ejercicios y ejemplos reales.
+
+**¿Estás listo para dar un paso hacia el futuro?**
+
+**¡Inscríbete hoy mismo!**
+- Número de teléfono: +52 55 1234 5678
+- Visita nuestra página: www.conectadosalfuturo.com.mx
+- Contáctanos por email: aprendizdigital@conectadosalfuturo.org
+
+#ConectadosAlFuturo #adultostecnológicos #tecnologíaparatodos
+
+*¡No te quedes atrás!*
+
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PUBLICACIO%CC%81N%20FACEBOOK.png" alt="Pubblicacion FB_1"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso_2.png" alt="Mock FB_1"></td>
+    </tr>
+  </table>
+</div>
+</div><div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/Sin%20costo.jpg" alt="Pubblicacion FB_2"></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/PostFbCurso.png" alt="Mock FB_2"></td>
+    </tr>
+  </table>
+</div>
