@@ -163,7 +163,7 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
   </table>
 </div>
 
-## Anuncios de revista Digital
+## Anuncios de revista Digital / Google Ads
 </div><div style="text-align: center;">
   <table>
     <tr>
@@ -176,7 +176,35 @@ Word, Excel, internet y redes sociales desde cero con nuestros cursos prácticos
   <table>
     <tr>
       <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-revista-03.jpg" alt="Anuncio Revisa Digital"></td>
-      <td></td>
+      <td><img src="https://github.com/alextostado/bedu_ai/blob/main/images/anuncio-DemoAds.png.jpg" alt="Google Ads"></td>
     </tr>
   </table>
 </div>
+
+---
+
+## Nuestro Equipo
+
+Sin la dedicación y el talento de nuestro equipo, esta campaña no habría sido posible. Cada miembro ha aportado su experiencia y pasión para hacer de **Conectados al Futuro** una realidad.
+
+- **Samantha Munguía**
+  - CHIEF MARKETING OFFICER (CMO)
+  
+- **Eduardo González**
+  - CHIEF PRODUCT OFFICER (CPO)
+  
+- **Alejandro Tostado**
+  - MARKETING MANAGER
+ 
+- **Conchita Alvarado**
+  - DIGITAL DESIGNER
+    
+---
+
+# GRACIAS POR SU TIEMPO!
+
+---
+
+### ***ANEXOS***
+- [Presentacion completa Canva](https://www.canva.com/design/DAGK3VKISAQ/aAKN1tE_Q0jVW15bNQCa8g/edit?utm_content=DAGK3VKISAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-  [Evidencias de Investigacíon / Prompts](https://github.com/alextostado/bedu_ai/tree/main/evidencias)
