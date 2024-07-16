@@ -6,7 +6,6 @@
 
 ![Cover](https://www.srtoast.com/bedu/images/cover_image.jpg)
 
-[Saber más](#)
 
 [Presentacion Equipo7 Canva](https://www.canva.com/design/DAGK3VKISAQ/aAKN1tE_Q0jVW15bNQCa8g/edit)
 
