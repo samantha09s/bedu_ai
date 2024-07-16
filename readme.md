@@ -10,8 +10,7 @@
 
 ---
 
-
-## Innovación para la Inclusión Digital de Adultos Mayores
+<span style="color: yellow;"> ## Innovación para la Inclusión Digital de Adultos Mayores</span>
 
 En un mundo cada vez más digitalizado, la iniciativa *Conectados al Futuro* se propone cerrar la brecha tecnológica en la población de adultos mayores. *¿Cómo?* Brindándoles las herramientas y habilidades esenciales para su inclusión social y acceso a nuevas oportunidades.
 
