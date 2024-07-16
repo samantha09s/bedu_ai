@@ -47,15 +47,12 @@ Sin la dedicación y el talento de nuestro equipo, esta campaña no habría sido
 
 - **Samantha Munguía**
   - CHIEF MARKETING OFFICER (CMO)
-  - ![Samantha Munguía]
   
 - **Eduardo González**
   - CHIEF PRODUCT OFFICER (CPO)
-  - ![Eduardo González]
   
-- **Alex Tostado**
+- **Alejandro Tostado**
   - MARKETING MANAGER
-  - ![Alex Tostado]
 
 ---
 
