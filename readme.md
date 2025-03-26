@@ -37,11 +37,6 @@ Esto se ha convertido en una barrera significativa para la inclusión social y e
 >   [INEGI, 2024](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENDUTIH/ENDUTIH_23.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/440b54f7-26fa-4ddc-9e0d-4a540677cc2b" alt="Brecha Digital_1" width="400">
-  <img src="https://github.com/user-attachments/assets/a937c31e-4d7e-4f44-b186-4b08e08a6014" alt="Brecha Digital_2" width="400">
-</p>
-
-<p align="center">
   <img src="https://github.com/alextostado/bedu_ai/blob/main/images/estadisticas_image.jpg" alt="Distribucion de usuarios" width="400">
   <img src="https://github.com/alextostado/bedu_ai/blob/main/images/distribucion_usuarios_image.jpg" alt="Estadisticas" width="400">
 </p>
